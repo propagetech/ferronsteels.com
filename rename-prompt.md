@@ -88,161 +88,49 @@ Files and context:
   {
     "path": "imgs/0795bc0c907a1c97bc5c706d76ab7097.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/1573a9a3c4c97d68071f467835d1ff24.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "CAREERS",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/1c5e7e796a8669961286a8e0819015c2.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/1f4bfd7077f4099e595117b0ba2de2ed.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "image description",
-          "title": ""
-        },
-        {
-          "alt": "SPECTROMETER",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/29fa2f1c7ea5e75d32a21ac6b752c6ee.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/312f62d03737afb3ae87618616cae4ec.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "RE-BARS & BILLETS",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/4165557566a574aada88581aa4dd44b5.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "OUR MISSION",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/44e18a84c7c3741eecb229080af597d8.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
@@ -254,363 +142,133 @@ Files and context:
   {
     "path": "imgs/68b6569bbfdebb341aca2e8daaf95cad.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/6bf250e6215d060cbc368e54abf2a302.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "CORROSION, EARTHQUAKE AND FIRE RESISTANCE",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/6d5ed30e2c9546e2f8934d6293d16022.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "image description",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/6f35675ab4f12ff30f045dcc6d94e893.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/725b445dcaf461b294b337b2064bd70e.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/731645aa9ec9051c290244ba93700f27.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/7fa740273e8860b094534e653fa2aa24.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "ferronsteelslogo",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/821b01381c80d6e91053e26d0c4dcbcf.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/900c635bc6f6bc20576aab025c2dbc11.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/92108b5f4f93b0eadfc8f8254da2efba.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/959f8de188d95720c25dc39f1ada7107.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "FE-500 TMT",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/960deedec8c16ee3affaf7112145b2c6.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "image description",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/96ba794363147cbe431407e8b7d3e8eb.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "CNC RIB CUTTING MACHINE",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/988e4a08a8edab27cc38f0dcad52d6b2.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "OUR STORY",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/9f2d6e8fdcdb83536c4cae75cefae96e.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "LABORATORY FURNACE (5 kg. capacity)",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/ce34fb23f2d610235addbd7568a08373.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "BENDABILITY, WELDABILITY AND BONDING",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/d0aee3c907a79ebf344acf8b5e51b505.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "ZERO TENSION ROLLING LOOPING SYSTEM",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/ed6c72cea307feb3a76bf62a52168b90.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/f1e64f2c55eb1d0fcb3f7c1858d93ab1.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "37833105ml",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/f84f178fd88138cbc44e4cc18369b1f4.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/fac3a9285694a45e1cb08c1c64c6b43b.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/fae041b9b247e2235e381e364d3a2fa7.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
